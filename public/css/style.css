@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #1a223e;
+}
+.login{
+	width: 400px;
+	box-shadow: 0px 0px 0px 1px #31323a;
+	transform: translate(0%,37%);
+	background: rgba(225, 225, 225, 0.07);
+	padding: 0px;
+}
+.login h3{
+	background: #106DE0;
+	padding: 12px;
+	color: #fff;
+}
+.login form{
+    padding: 25px 10px 0px 10px;
+
+}
+.login form .form-label{
+	color: #fff !important;
+}
+.login form p{
+	padding-bottom: 10px;
+}
+
